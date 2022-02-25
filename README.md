@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 - 🌱 Open source fancier
 - 🏠 Homepage at https://bitlab.cn
 
-[![github stats](https://github-readme-stats.vercel.app/api?username=mojocn)](https://github.com/liu-yuanpeng)
+[![github stats](https://github-readme-stats.vercel.app/api?username=liu-yuanpeng)](https://github.com/liu-yuanpeng)
