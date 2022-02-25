@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 Gopher Rustacean
+- 🌱 Open source fancier
+- 🏠 Homepage at https://bitlab.cn
+
+[![mojocn's github stats](https://github-readme-stats.vercel.app/api?username=mojocn)](https://github.com/liu-yuanpeng)
